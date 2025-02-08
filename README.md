@@ -1,3 +1,6 @@
+
+<img width="827" alt="Screenshot 2025-02-09 at 02 58 59" src="https://github.com/user-attachments/assets/63a532fe-5eed-4ba8-b688-15a54a44073a" />
+
 ## Accordion Project - React Fundamental Project 4
 
 This project is a simple React application that displays a list of questions with toggleable answers. It uses the `useState` hook to manage the state of the questions and their visibility.
