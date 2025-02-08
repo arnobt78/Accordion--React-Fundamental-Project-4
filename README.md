@@ -5,6 +5,8 @@
 
 This project is a simple React application that displays a list of questions with toggleable answers. It uses the `useState` hook to manage the state of the questions and their visibility.
 
+**Online Live:** https://accordion-arnob.netlify.app/
+
 ### Setup
 
 1. **Clone the repository:**
